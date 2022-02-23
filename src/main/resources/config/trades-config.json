@@ -1,0 +1,236 @@
+{
+  "tableName": "TEMP_TRADE_STATS",
+  "fieldMap": {
+    "TRADE_ID" : {
+      "tableField": ""
+    },
+    "COUNTERPARTY" : {
+      "tableField": ""
+    },
+    "MATURITY_DATE" : {
+      "tableField": ""
+    },
+    "PORTFOLIO" : {
+      "tableField": ""
+    },
+    "BUY_SELL" : {
+      "tableField": ""
+    },
+    "CONTRACT_ID" : {
+      "tableField": ""
+    },
+    "CURRENCY" : {
+      "tableField": ""
+    },
+    "CURRENCY1" : {
+      "tableField": ""
+    },
+    "CURRENCY2" : {
+      "tableField": ""
+    },
+    "DEAL_DATE" : {
+      "tableField": ""
+    },
+    "TRADER" : {
+      "tableField": ""
+    },
+    "ENTITY" : {
+      "tableField": ""
+    },
+    "EVENT" : {
+      "tableField": ""
+    },
+    "EVENT_DATE" : {
+      "tableField": ""
+    },
+    "TRADE_FMLY" : {
+      "tableField": ""
+    },
+    "FORWARD_MARGIN" : {
+      "tableField": ""
+    },
+    "INSTRUMENT" : {
+      "tableField": ""
+    },
+    "INTERNAL" : {
+      "tableField": ""
+    },
+    "ISIN" : {
+      "tableField": ""
+    },
+    "LENDING_UNIT" : {
+      "tableField": ""
+    },
+    "MARGIN_MYR" : {
+      "tableField": ""
+    },
+    "MTM_MYR" : {
+      "tableField": ""
+    },
+    "MTM" : {
+      "tableField": ""
+    },
+    "MTM_CURRENCY" : {
+      "tableField": ""
+    },
+    "MUREX_ID" : {
+      "tableField": ""
+    },
+    "NOTIONAL" : {
+      "tableField": ""
+    },
+    "AMOUNT1" : {
+      "tableField": ""
+    },
+    "AMOUNT2" : {
+      "tableField": ""
+    },
+    "NOTIONAL_MYR" : {
+      "tableField": ""
+    },
+    "PARENT_NAME" : {
+      "tableField": ""
+    },
+    "PRODUCT" : {
+      "tableField": ""
+    },
+    "PURGE_DATE" : {
+      "tableField": ""
+    },
+    "PURGE_REFERENCE" : {
+      "tableField": ""
+    },
+    "PURGED" : {
+      "tableField": ""
+    },
+    "RATE" : {
+      "tableField": ""
+    },
+    "RC_CODE" : {
+      "tableField": ""
+    },
+    "SECTOR" : {
+      "tableField": ""
+    },
+    "SPOT_MARGIN" : {
+      "tableField": ""
+    },
+    "SPREAD" : {
+      "tableField": ""
+    },
+    "STATUS" : {
+      "tableField": ""
+    },
+    "SWAP_MARGIN" : {
+      "tableField": ""
+    },
+    "TRADE_COUNT" : {
+      "tableField": ""
+    },
+    "TRADE_GRP" : {
+      "tableField": ""
+    },
+    "TRADE_INSERTION_DATE" : {
+      "tableField": ""
+    },
+    "TRADE_INSERTION_DATE_TIME" : {
+      "tableField": ""
+    },
+    "TRADE_SOURCE" : {
+      "tableField": ""
+    },
+    "TRADE_TYPE" : {
+      "tableField": ""
+    },
+    "TRADE_TYPOLOGY" : {
+      "tableField": ""
+    },
+    "FILE_NAME" : {
+      "tableField": ""
+    },
+    "SYSTEM_DATE" : {
+      "tableField": ""
+    },
+    "TRADE_CATEGORY" : {
+      "tableField": ""
+    },
+    "USAGE" : {
+      "tableField": ""
+    },
+    "PACKAGE_ID" : {
+      "tableField": ""
+    },
+    "START_DATE" : {
+      "tableField": ""
+    },
+    "END_DATE" : {
+      "tableField": ""
+    },
+    "FLEX_EXPIRY_DATE" : {
+      "tableField": ""
+    },
+    "BARRIER_TYPE" : {
+      "tableField": ""
+    },
+    "BARRIER_STYLE" : {
+      "tableField": ""
+    },
+    "LOW_BARR" : {
+      "tableField": ""
+    },
+    "HIGH_BARR" : {
+      "tableField": ""
+    },
+    "LOWER_RANGE" : {
+      "tableField": ""
+    },
+    "MID_RANGE" : {
+      "tableField": ""
+    },
+    "UPPER_RANGE" : {
+      "tableField": ""
+    },
+    "PREMIUM" : {
+      "tableField": ""
+    },
+    "WEIGHT" : {
+      "tableField": ""
+    },
+    "STRIKE" : {
+      "tableField": ""
+    },
+    "BARRIER_PROFILE" : {
+      "tableField": ""
+    },
+    "BARRIER" : {
+      "tableField": ""
+    },
+    "NATURE" : {
+      "tableField": ""
+    },
+    "TENURE" : {
+      "tableField": ""
+    },
+    "PAYOUT" : {
+      "tableField": ""
+    },
+    "REPAYMENT" : {
+      "tableField": ""
+    },
+    "CALL_START_DATE" : {
+      "tableField": ""
+    },
+    "CALL_END_DATE" : {
+      "tableField": ""
+    },
+    "LEG_TYPE" : {
+      "tableField": ""
+    },
+    "BROKERAGE_FEES" : {
+      "tableField": ""
+    },
+    "BROKER" : {
+      "tableField": ""
+    }
+  }
+}
